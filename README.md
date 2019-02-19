@@ -11,6 +11,8 @@ to resolve a field.
 
 ## Requirements
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/EasyGraphQL/easygraphql-tracing.svg)](https://greenkeeper.io/)
+
 + GraphQL: `"^14.0.0"`
 + express-graphql: `"^0.7.0"`
 
