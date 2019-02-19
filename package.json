@@ -1,0 +1,41 @@
+{
+  "name": "easygraphql-tracing",
+  "version": "0.0.1",
+  "description": "Get a tracing of your GraphQL resolvers",
+  "main": "index.js",
+  "scripts": {
+    "standard": "standard",
+    "standard-fix": "standard --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run standard"
+    }
+  },
+  "keywords": [],
+  "homepage": "https://github.com/EasyGraphQL/easygraphql-tracing",
+  "author": {
+    "name": "EasyGraphQL",
+    "url": "https://github.com/EasyGraphQL"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EasyGraphQL/easygraphql-tracing"
+  },
+  "bugs": {
+    "url": "https://github.com/EasyGraphQL/easygraphql-tracing"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "graphql": "^14.0.0"
+  },
+  "dependencies": {
+    "graphql": "^14.0.2",
+    "cli-table": "^0.3.1"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "husky": "^1.2.1"
+  }
+}
