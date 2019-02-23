@@ -65,6 +65,8 @@ It'll create a table on the console
 └─────────────┴─────────────┴─────────────┴─────────────────────────────────┴───────────────┴───────────────┘
 ```
 
+<img src='./result.gif' alt='result' >
+
 
 ## License
 ### The MIT License
